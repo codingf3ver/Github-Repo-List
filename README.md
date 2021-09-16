@@ -2,6 +2,12 @@
 
 ## Installation Guide
 
+## Clone the repository 
+
+```
+git clone 
+```
+
 ```
 Install the required libraries which is in 'requirements.txt file as
 
@@ -17,4 +23,5 @@ python get-repo.py --uname 'any user username'
 ```
  It will automatically download the repository list name in csv file format.
  
+ NOTE
 ```
