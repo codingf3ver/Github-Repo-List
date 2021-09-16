@@ -5,11 +5,16 @@
 ## Clone the repository 
 
 ```
-git clone 
+git clone https://github.com/codingf3ver/Github-Repo-List.git
+
+Go inside the downloaded folder
+
+cd Downloads/Github-Repo-List 
+
 ```
 
 ```
-Install the required libraries which is in 'requirements.txt file as
+Now install the required libraries which is in 'requirements.txt file as
 
 pip install -r requirements.txt
 
