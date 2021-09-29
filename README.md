@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 ## Run the script
 ```
-python get-repo.py --uname 'any user username'
+python get_repo.py --uname 'any user username'
 
 * Note: No need to provide string like given in 'any user name ' instead any user name
 
